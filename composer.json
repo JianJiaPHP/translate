@@ -1,5 +1,5 @@
 {
-    "name": "GongZiYan/translate",
+    "name": "gongziyan/translate",
     "description": "集成百度翻译，有道翻译，谷歌翻译",
     "require": {
         "stichoza/google-translate-php": "^4.1.1",
@@ -13,7 +13,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "GongZiYan",
+            "name": "gongziyan",
             "email": "1250472056@qq.com"
         }
     ],
